@@ -13,10 +13,10 @@ Exp/hour: 225
 
 # Farm 2
 
-Units: Farm, Commander, DJ Booth, Ace Pilot, Shotgunner
-Time: 12 minutes
-Winrate: 99%
-Map: Deserted Village
-Coins/hour: 3260
-Exp/hour: 225
+- Units: Farm, Commander, DJ Booth, Ace Pilot, Shotgunner
+- Time: 12 minutes
+- Winrate: 99%
+- Map: Deserted Village
+- Coins/hour: 3260
+- Exp/hour: 225
 
