@@ -11,6 +11,8 @@ My farm strats for Tower Defense Simulator!
 - Coins/hour: 1000-1500
 - Exp/hour: 225
 
+Purpose: Infinite triumphs for molten.
+
 # Farm 2
 
 - Units: Farm, Commander, DJ Booth, Ace Pilot, Shotgunner
@@ -20,3 +22,4 @@ My farm strats for Tower Defense Simulator!
 - Coins/hour: 3260
 - Exp/hour: 340
 
+Purpose: Grind for Coins and EXP
