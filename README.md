@@ -20,6 +20,6 @@ Purpose: Infinite triumphs for molten.
 - Winrate: 0%
 - Map: Badlands II
 - Coins/hour: 3260
-- Exp/hour: 340
+- Exp/hour: 650
 
 Purpose: Grind for Coins and EXP
