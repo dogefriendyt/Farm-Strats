@@ -2,7 +2,7 @@
 
 My farm strats for Tower Defense Simulator!
 
-# Farm 1 - Mine
+# Farm 1
 
 - Units: Farm, Military base, DJ Booth, Minigunner, Commander
 - Time: 22 - 24 minutes
